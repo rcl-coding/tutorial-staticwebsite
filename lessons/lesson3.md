@@ -69,7 +69,7 @@ The **img** has ad **id** attribute set to 'logo' and a **src** (source) attribu
 
 ### Navigation 
 
-- Under the Header element, add a navigation element (**nav**) as follows :
+- Under the header element, add a navigation element (**nav**) as follows :
 
 ```html
 <!doctype html>
@@ -146,7 +146,7 @@ These links will comprise the navigation for our website.
 </html>
 ```
 
-In the section, add the following code to create a description for the pet :
+In the section, add the following code to create a 'pet component' :
 
 ```html
 <!doctype html>

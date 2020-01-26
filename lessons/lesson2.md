@@ -44,7 +44,7 @@ The index.html page has an **html** element, which starts with an **< html>** st
 All the elements of an HTML page is placed inside this **html** element between the starting and ending tags.
 
 ### Head Section and Meta
-- Between the html element's starting and ending tags, add the following code :
+- Between the html element's starting and ending tags, add a head element :
 
 ```html
 <!doctype html>
@@ -60,7 +60,7 @@ All the elements of an HTML page is placed inside this **html** element between 
 </html>
 ```
 
-The **Head** section of the page provides information (meta data) about the page. The **meta** elements is used to enter this information. 
+The **head** section of the page provides information (meta data) about the page. The **meta** elements is used to enter this information. 
 
 The following is a short description of the attributes the meta element :
 
@@ -68,11 +68,11 @@ The following is a short description of the attributes the meta element :
 - viewport - adjust the size of the page to fill small, medium and large screens
 - description - the description of the page
 
-The Head element also contains the title of the page in the **title** element.
+The head element also contains the title of the page in the **title** element.
 
 ### Body
 
-- Add the **body** element under the Head element:
+- Add the **body** element under the head element:
 
 ```html
 <!doctype html>
