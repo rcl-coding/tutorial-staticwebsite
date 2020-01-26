@@ -52,7 +52,7 @@ We will use javascript to build an image gallery in the index.html page.
 }
 ```
 
-- Save the files and , preview the result in the browser.
+- Save the files and preview the result in the browser.
 
 ![new folder](../img/js-gallery-controller.JPG)
 
@@ -97,7 +97,7 @@ function hideAllPets()
 }
 ```
 
-- Write a function to show the 'pet component' when the relevant link is clicked in the gallery controller
+- Write a function to show a 'pet component' when the relevant link is clicked in the gallery controller.
 
 ```javascript
 function showPet(i) 
@@ -118,7 +118,7 @@ function showPet(i)
 
 ### Add Javascript to the page
 
-In the index.html page's Head section, add a link to your javascript file.
+In the index.html page's head section, add a link to your javascript file.
 
 ```html
 <head>
@@ -128,7 +128,9 @@ In the index.html page's Head section, add a link to your javascript file.
 </head>
 ```
 
-When the page loads, we want to hide all the pets and show the first pet only. Add javascript in the body onload event to do this.
+When the page loads, we want to hide all the pets and show the first pet only. 
+
+Add javascript in the body onload event to do this.
 
 ```html
 <body onload="showPet(1)">
@@ -147,7 +149,23 @@ When the user clicks a number link in the gallery controller, we want to show th
 </div>
 ```
 
-- Save the files and , preview the result in the browser
+- Save the files and preview the result in the browser.
+
+****
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson5.html';
+this.page.identifier = 'f001-05';
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://coding-skills-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 

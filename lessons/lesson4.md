@@ -21,7 +21,7 @@ description: Styling with CSS
 
 You can add a style directly to an HTML element using the **element selector**. 
 
-Add style to the **body** element of the HTML page with the following CSS code :
+In the style.css file, add style to the **body** element of the HTML page with the following CSS code :
 
 ```css
 body {
@@ -32,11 +32,11 @@ body {
 }
 ```
 
-It sets the font-family, size , margin and background color.
+It sets the font-family, size , margin and background for the page body.
 
 ### Apply CSS to HTML
 
-- In the HTML page , add a link to the CSS file in the Head section.
+- In the index.html page , add a link to the CSS file in the head section.
 
 ```html
 <head>
@@ -53,7 +53,7 @@ It sets the font-family, size , margin and background color.
 
 ### Header
 
-- Add the following style for the Header section of the page :
+- Add the following style for the header section in the page body :
 
 ```css
 header {
@@ -81,7 +81,7 @@ The diagram below illustrates border, padding and margin.
 }
 ```
 
-Here we use the CSS **id selector**. The style will be applied to an html element with the **id** set to 'logo'.
+Here, we use the CSS **id selector**. The style will be applied to an html element with the **id** attribute set to 'logo'.
 
 ### Navigation
 
@@ -126,7 +126,7 @@ A descendent selector is also used to set the style of the **a** within each li 
 
 The **:hover** selector is used to set the style when you hover over the link.
 
-You will notice that the left float on the li element is being applied to the next element on the page, ie. the section element.
+You will notice that the left float on the li element is being applied to the next element on the page, ie. the section element. We will fix this later on.
 
 ![new folder](../img/css-clearfix.JPG)
 
@@ -260,6 +260,22 @@ footer {
 - Preview the index.html page in the browser and see the results.
 
 ![new folder](../img/css-footer.JPG)
+
+****
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson4.html';
+this.page.identifier = 'f001-04';
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://coding-skills-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
 
 

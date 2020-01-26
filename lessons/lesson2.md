@@ -44,7 +44,7 @@ The index.html page has an **html** element, which starts with an **< html>** st
 All the elements of an HTML page is placed inside this **html** element between the starting and ending tags.
 
 ### Head Section and Meta
-- Between the html element's starting and ending tags, add a head element :
+- Between the html element's starting and ending tags, add a **head** element :
 
 ```html
 <!doctype html>
@@ -62,7 +62,7 @@ All the elements of an HTML page is placed inside this **html** element between 
 
 The **head** section of the page provides information (meta data) about the page. The **meta** elements is used to enter this information. 
 
-The following is a short description of the attributes the meta element :
+The following is a short description of the attributes of the meta element :
 
 - charset - the character set used
 - viewport - adjust the size of the page to fill small, medium and large screens
@@ -92,7 +92,7 @@ The head element also contains the title of the page in the **title** element.
 </html>
 ```
 
-- In the body element, add a **P** (paragraph element) with the **caption** shown in the following code :
+- In the body element, add a **p** (paragraph element) with the **caption** shown in the following code :
 
 ```html
 <!doctype html>
@@ -127,3 +127,18 @@ The 'Hello World' caption will be displayed on your web page.
 
 ![new folder](../img/html1-view-browser2.JPG)
 
+****
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson2.html';
+this.page.identifier = 'f001-02';
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://coding-skills-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

@@ -192,7 +192,9 @@ In the section, add the following code to create a 'pet component' :
 
 We use the **div** (division element) as a container for other elements. 
 
-The outermost div has an **id** attribute set to 'pet_1'. We will use this as a 'component' to create containers for the other pets.
+The outermost div has an **id** attribute set to 'pet_1'. 
+
+We will use  block of code as a 'component' to create containers for the other pets.
 
 Copy the 'pet component' and create containers for the other three pets as follows :
 
@@ -346,8 +348,24 @@ Copy the 'pet component' and create containers for the other three pets as follo
 </html>
 ```
 
-- Preview the index.html page in the browser.
+- Save the file and preview the index.html page in the browser.
 
 ![new folder](../img/html2-site2.JPG)
 ![new folder](../img/html2-site3.JPG)
+
+****
+<div id="disqus_thread"></div>
+<script>
+var disqus_config = function () {
+this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson3.html';
+this.page.identifier = 'f001-03';
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://coding-skills-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
