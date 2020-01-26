@@ -13,7 +13,7 @@ description: Create the Project
 
 - On your computer, create a new folder for your project.
 
-![new folder](img/vsc-new-folder.JPG)
+![new folder](/img/vsc-new-folder.JPG)
 
 - Open Visual Studio Code, and open the folder : **File > Open Folder** and select the folder.
 
@@ -21,6 +21,6 @@ description: Create the Project
 
 - You now have a blank folder to add you project files.
 
-![new folder](img/vsc-opened-folder.JPG)
+![new folder](/img/vsc-opened-folder.JPG)
 
 

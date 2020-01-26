@@ -12,11 +12,11 @@ description: Add an HTML
 
 - In the project folder, in Visual Studio Code, click on the **New File** icon and add a new file.
 
-![new folder](img/html1-new-file.JPG)
+![new folder](/img/html1-new-file.JPG)
 
 - Name the new file **index.html**.
 
-![new folder](img/html1-index-html.JPG)
+![new folder](/img/html1-index-html.JPG)
 
 This file has a special name 'index.html'. When your website first opens, it will look for a file named 'index.html' and open that file. 
 
@@ -127,9 +127,9 @@ The 'Hello World' caption will be displayed on your web page.
 
 - Right click the index.html file and click on **View in Browser**.
 
-![new folder](img/html1-view-browser.JPG)
+![new folder](/img/html1-view-browser.JPG)
 
 - You should see your HTML page rendered in the browser.
 
-![new folder](img/html1-view-browser2.JPG)
+![new folder](/img/html1-view-browser2.JPG)
 

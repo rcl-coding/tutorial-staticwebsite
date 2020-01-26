@@ -1,7 +1,6 @@
 title: Static Website
 description: Build a static website with HTML, CSS and Javascript
 remote_theme: pmarsceill/just-the-docs
-color_scheme: dark
 search_enabled: true
 aux_links:
     "Edit on GitHub":

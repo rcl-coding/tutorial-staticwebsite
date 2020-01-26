@@ -15,7 +15,7 @@ description: Styling with CSS
 
 - In the css folder, add a file named **style.css**.
 
-![new folder](img/css-file.JPG)
+![new folder](/img/css-file.JPG)
 
 ### Body Style
 
@@ -68,7 +68,7 @@ header {
 
 The diagram below illustrates border, padding and margin.
 
-![new folder](img/css-margin-padding.png)
+![new folder](/img/css-margin-padding.png)
 
 ### Logo
 
@@ -130,7 +130,7 @@ The **:hover** selector is used to set the style when you hover over the link.
 
 You will notice that the left float on the li element is being applied to the next element on the page, ie. the section element.
 
-![new folder](img/css-clearfix.JPG)
+![new folder](/img/css-clearfix.JPG)
 
 ### Section
 
@@ -239,7 +239,7 @@ In the index.html page, add the class attributes to the html elements as follows
 
 - Preview the index.html page in the browser and see the results.
 
-![new folder](img/css-card.JPG)
+![new folder](/img/css-card.JPG)
 
 ### Footer
 
@@ -261,7 +261,7 @@ footer {
 
 - Preview the index.html page in the browser and see the results.
 
-![new folder](img/css-footer.JPG)
+![new folder](/img/css-footer.JPG)
 
 
 
