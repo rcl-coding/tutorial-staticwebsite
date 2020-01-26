@@ -1,5 +1,5 @@
 ---
-title: Lesson 5 - CSS
+title: Lesson 5 - Javascript
 has_children: false
 nav_order: 6
 description: Javascript

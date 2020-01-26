@@ -46,15 +46,14 @@ description: Add Content to an HTML Page
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
+    <!-- Add header -->
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -77,21 +76,19 @@ The **img** has ad **id** attribute set to 'logo' and a **src** (source) attribu
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
-    
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
     </header>
-
+    
+    <!-- Add nav -->
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -99,7 +96,6 @@ The **img** has ad **id** attribute set to 'logo' and a **src** (source) attribu
             <li><a href="about.html">About</a></li>
         </ul>
     </nav>
-
 </body>
 
 </html>
@@ -122,16 +118,13 @@ These links will comprise the navigation for our website.
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
-
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -145,6 +138,7 @@ These links will comprise the navigation for our website.
         </ul>
     </nav>
 
+    <!-- Add section -->
     <section>
 
     </section>
@@ -161,16 +155,13 @@ In the section, add the following code to create a description for the pet :
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
-
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -185,7 +176,7 @@ In the section, add the following code to create a description for the pet :
     </nav>
 
     <section>
-
+        <!-- Add 'pet component' -->
         <div id="pet_1">
             <div>
                 <p>German Shepherd</p>
@@ -195,9 +186,7 @@ In the section, add the following code to create a description for the pet :
                 <p>This dog is intelligent and can make good guard dogs.</p>
             </div>
         </div>
-
     </section>
-
 </body>
 
 </html>
@@ -214,16 +203,13 @@ Copy the 'pet component' and create containers for the other three pets as follo
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
-
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -238,7 +224,6 @@ Copy the 'pet component' and create containers for the other three pets as follo
     </nav>
 
     <section>
-
         <div id="pet_1">
             <div>
                 <p>German Shepherd</p>
@@ -248,7 +233,7 @@ Copy the 'pet component' and create containers for the other three pets as follo
                 <p>This dog is intelligent and can make good guard dogs.</p>
             </div>
         </div>
-
+        <!-- Add 3 additional 'pet components' -->
         <div id="pet_2">
             <div>
                 <p>Bull Terrier</p>
@@ -278,9 +263,7 @@ Copy the 'pet component' and create containers for the other three pets as follo
                 <p>This dog is a popular breed and makes a very good pet.</p>
             </div>
         </div>
-
     </section>
-
 </body>
 
 </html>
@@ -295,16 +278,13 @@ Copy the 'pet component' and create containers for the other three pets as follo
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
-
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -319,7 +299,6 @@ Copy the 'pet component' and create containers for the other three pets as follo
     </nav>
 
     <section>
-
         <div id="pet_1">
             <div>
                 <p>German Shepherd</p>
@@ -359,13 +338,12 @@ Copy the 'pet component' and create containers for the other three pets as follo
                 <p>This dog is a popular breed and makes a very good pet.</p>
             </div>
         </div>
-
     </section>
-
+    
+    <!-- Add footer -->
     <footer>
         <p>Pet Adoption Agency (c) 2020 </p>
     </footer>
-
 </body>
 
 </html>

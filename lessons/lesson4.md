@@ -40,14 +40,12 @@ It sets the font-family, size , margin and background color.
 
 ```html
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
 
     <link href="css/style.css" rel="stylesheet" />
-
 </head>
 ```
 

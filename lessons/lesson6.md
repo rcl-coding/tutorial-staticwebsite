@@ -19,18 +19,15 @@ description: Add Pages to Website
 <!DOCTYPE html>
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="About the Dog Adoption Agency">
     <title>Dog Adoption Agency - About</title>
 
     <link href="css/style.css" rel="stylesheet" />
-
 </head>
 
 <body>
-
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -53,7 +50,6 @@ description: Add Pages to Website
     <footer>
         <p>Pet Adoption Agency (c) 2020 </p>
     </footer>
-
 </body>
 
 </html>
@@ -69,18 +65,15 @@ description: Add Pages to Website
 <!DOCTYPE html>
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Contact the Dog Adoption Agency">
     <title>Dog Adoption Agency - Contact</title>
 
     <link href="css/style.css" rel="stylesheet" />
-
 </head>
 
 <body>
-
     <header>
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
@@ -104,7 +97,6 @@ description: Add Pages to Website
     <footer>
         <p>Pet Adoption Agency (c) 2020 </p>
     </footer>
-    
 </body>
 
 </html>

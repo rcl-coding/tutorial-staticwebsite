@@ -50,13 +50,12 @@ All the elements of an HTML page is placed inside this **html** element between 
 <!doctype html>
 <html lang="en">
 
+<!-- Add head -->
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 </html>
@@ -81,14 +80,13 @@ The Head element also contains the title of the page in the **title** element.
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
+<!-- Add body -->
 <body>
 
 </body>
@@ -103,20 +101,18 @@ The Head element also contains the title of the page in the **title** element.
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
-
 </head>
 
 <body>
-    <p>Hello World!</p>
+   <!-- Add paragraph -->
+   <p>Hello World!</p>
 </body>
 
 </html>
-
 ```
 
 The 'Hello World' caption will be displayed on your web page.
