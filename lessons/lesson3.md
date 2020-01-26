@@ -13,27 +13,27 @@ description: Add Content to an HTML Page
 
 - In Visual Studio , click on the **Preview** icon.
 
-![new folder](/img/html2-preview.JPG)
+![new folder](../img/html2-preview.JPG)
 
 - In this way, you can preview the rendered HTML page as you type your code.
 
-![new folder](/img/html2-preview2.JPG)
+![new folder](../img/html2-preview2.JPG)
 
 ### Add Images
 
 - In the project folder, use the new folder icon to add a folder.
 
-![new folder](/img/html2-new-folder.JPG)
+![new folder](../img/html2-new-folder.JPG)
 
 - Name the folder **img**.
 
-![new folder](/img/html2-folder-img.JPG)
+![new folder](../img/html2-folder-img.JPG)
 
 - Download the .zip folder from this [Tutorial Resources](https://github.com/rcl-coding/tutorial-resources/archive/master.zip) link.
 
 - Unzip the folder and copy the images from the 'static-website' folder to your img folder.
 
-![new folder](/img/html2-folder-img2.JPG)
+![new folder](../img/html2-folder-img2.JPG)
 
 ### Header
 
@@ -373,6 +373,6 @@ Copy the 'pet component' and create containers for the other three pets as follo
 
 - Preview the index.html page in the browser.
 
-![new folder](/img/html2-site2.JPG)
-![new folder](/img/html2-site3.JPG)
+![new folder](../img/html2-site2.JPG)
+![new folder](../img/html2-site3.JPG)
 

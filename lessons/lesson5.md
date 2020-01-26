@@ -15,7 +15,7 @@ description: Javascript
 
 - In this folder, add a new file called **script.js**
 
-![new folder](/img/js-file.JPG)
+![new folder](../img/js-file.JPG)
 
 ### Image gallery
 
@@ -54,7 +54,7 @@ We will use javascript to build an image gallery in the index.html page.
 
 - Save the files and , preview the result in the browser.
 
-![new folder](/img/js-gallery-controller.JPG)
+![new folder](../img/js-gallery-controller.JPG)
 
 ### Gallery Navigation List
 
