@@ -1,17 +1,27 @@
+---
+title: Lesson 4 - CSS
+has_children: false
+nav_order: 5
+description: Styling with CSS
+---
+
 # Styling with CSS
- ## In this lesson we will use Cascading Style Sheets (CSS) to style our website.
+
+## In this lesson, we will use Cascading Style Sheets (CSS) to style our website.
 
 ## CSS Folder
 
-- In Visual Studio Code, create a folder for your style sheet. Name the folder 'css'.
+- In Visual Studio Code, create a folder for your style sheet. Name the folder **css**.
 
-- In the css folder add a file named **style.css**
+- In the css folder, add a file named **style.css**.
 
 ![new folder](img/css-file.JPG)
 
 ### Body Style
 
-You can add a style directly to an HTML element. The following CSS code adds a style to **body** element in the HTML page
+You can add a style directly to an HTML element using the **element selector**. 
+
+Add style to the **body** element of the HTML page with the following CSS code :
 
 ```css
 body {
@@ -26,7 +36,7 @@ It sets the font-family, size , margin and background color.
 
 ### Apply CSS to HTML
 
-- In the HTML page , add a link to the CSS style sheet in the Head section.
+- In the HTML page , add a link to the CSS file in the Head section.
 
 ```html
 <head>
@@ -41,11 +51,11 @@ It sets the font-family, size , margin and background color.
 </head>
 ```
 
-- Save the files and , preview the result in the browser
+- Save the files and , preview the result in the browser.
 
 ### Header
 
-Add the following style for the Header section of the page:
+- Add the following style for the Header section of the page :
 
 ```css
 header {
@@ -56,13 +66,13 @@ header {
 }
 ```
 
-The diagram below illustrates border, padding and margin
+The diagram below illustrates border, padding and margin.
 
 ![new folder](img/css-margin-padding.png)
 
 ### Logo
 
-The following code styles the logo
+- Add the following code to style the logo :
 
 ```css
 #logo {
@@ -73,9 +83,11 @@ The following code styles the logo
 }
 ```
 
-Here we use the CSS id selector. The style will be applied to an html element with the **id** set to 'logo'.
+Here we use the CSS **id selector**. The style will be applied to an html element with the **id** set to 'logo'.
 
 ### Navigation
+
+- Style the site navigation with the following code :
 
 ```css
 nav {
@@ -110,9 +122,9 @@ nav li a:hover {
 
 The left margin of the navigation is set to 10% of the page width using the element selector.
 
-The ul element within the nav element is set by a descendent selector. The 'list-style: none' allow the list element to display horizontally. The list will be floated to the left side of the page.
+The ul within the nav is set by a **descendent selector**. The 'list-style: none' allow the list element to display horizontally. The list will be floated to the left side of the page.
 
-A descendent selector is also used to set the style of the **a** element within each li element that is contained in the ul element.
+A descendent selector is also used to set the style of the **a** within each li that is contained in the ul.
 
 The **:hover** selector is used to set the style when you hover over the link.
 
@@ -122,18 +134,19 @@ You will notice that the left float on the li element is being applied to the ne
 
 ### Section
 
-Add the following element selector to format the section element.
+Add the following element selector to style the section element:
 
 ```css
 section {
     clear: both;
     margin-left: 10%;
     margin-right: 10%;
+    padding-top: 10px;
     padding-bottom: 55px;
 }
 ```
 
-The clear property is used to clear the float. The clears the float on both left and right.
+The clear property is used to clear the float. This clears the float on both left and right. It will fix the float 'spilling over' from the navigation element.
 
 ### Pet Component
 
@@ -170,7 +183,7 @@ The clear property is used to clear the float. The clears the float on both left
 }
 ```
 
-We use the **class** selector to set styling for a class called class. When we add this 'class' attribute to an html element is it will apply the style.
+We use the **class** selector to set styling for a class called card. When we add this 'class' attribute to an html element is it will apply the style.
 
 We set the img style with a descendent selector.
 
@@ -224,7 +237,7 @@ In the index.html page, add the class attributes to the html elements as follows
 </div>
 ```
 
-- Preview the index.html page in the browser and see the results
+- Preview the index.html page in the browser and see the results.
 
 ![new folder](img/css-card.JPG)
 
@@ -246,7 +259,7 @@ footer {
 }
 ```
 
-- Preview the index.html page in the browser and see the results
+- Preview the index.html page in the browser and see the results.
 
 ![new folder](img/css-footer.JPG)
 

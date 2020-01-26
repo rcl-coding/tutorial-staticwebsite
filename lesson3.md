@@ -1,6 +1,13 @@
+---
+title: Lesson 3 - HTML Content
+has_children: false
+nav_order: 4
+description: Add Content to an HTML Page 
+---
+
 # Add Content to an HTML Page
 
-## In this lesson we will add our content to the index.html page.
+## In this lesson, we will add content to the index.html page.
 
 ### Page Preview
 
@@ -8,31 +15,31 @@
 
 ![new folder](img/html2-preview.JPG)
 
-- In this way, you can preview the rendered HTML page as you add your code
+- In this way, you can preview the rendered HTML page as you type your code.
 
 ![new folder](img/html2-preview2.JPG)
 
 ### Add Images
 
-- In the project use the new folder icon to add a folder
+- In the project folder, use the new folder icon to add a folder.
 
 ![new folder](img/html2-new-folder.JPG)
 
-- Name the folder **img**
+- Name the folder **img**.
 
 ![new folder](img/html2-folder-img.JPG)
 
-- Download the .zip folder from [Tutorial Resources](https://github.com/rcl-coding/tutorial-resources/archive/master.zip)
+- Download the .zip folder from this [Tutorial Resources](https://github.com/rcl-coding/tutorial-resources/archive/master.zip) link.
 
-- Unzip the folder and copy the images from the 'static-website' folder to your img folder
+- Unzip the folder and copy the images from the 'static-website' folder to your img folder.
 
 ![new folder](img/html2-folder-img2.JPG)
 
 ### Header
 
-- Remove the **p** element from the body
+- Remove the paragraph (**p**) element from the body.
 
-- Add a **header** tag in the body as follows
+- Add a **header** element in the body as follows :
 
 ```html
 <!doctype html>
@@ -57,13 +64,13 @@
 </html>
 ```
 
-The **header** element contains an **img** (image) element and a **h1** (text H1 header) element.
+The **header** element contains an image (**img**) element and a text header (**h1**) element.
 
-The **img** element has ad **id** attribute set to 'log' and a **src** attribute set to the relative path to the logo image.
+The **img** has ad **id** attribute set to 'logo' and a **src** (source) attribute set to the relative path of the logo image.
 
 ### Navigation 
 
-- Under the Header element add a **nav** element as follows
+- Under the Header element, add a navigation element (**nav**) as follows :
 
 ```html
 <!doctype html>
@@ -98,13 +105,17 @@ The **img** element has ad **id** attribute set to 'log' and a **src** attribute
 </html>
 ```
 
-The **nav** element contains an unordered (**ul**) list (**li**) of links (**a**). Notice how the **a** element is nested in each **li** element. And each **li** element is nested in the **ul** element.
+The **nav** contains an unordered (**ul**) list (**li**) of links (**a**). 
+
+Notice how the link (**a**) element is nested in each of the list (**li**) elements. 
+
+Each **li** is nested in the **ul**.
 
 These links will comprise the navigation for our website.
 
 ### Section
 
-- Under the nav element, add a **section** element
+- Under the nav, add a **section** element as follows :
 
 ```html
 <!doctype html>
@@ -143,7 +154,7 @@ These links will comprise the navigation for our website.
 </html>
 ```
 
-In the section element, add the following code to create a description for the pet.
+In the section, add the following code to create a description for the pet :
 
 ```html
 <!doctype html>
@@ -192,11 +203,11 @@ In the section element, add the following code to create a description for the p
 </html>
 ```
 
-We use the **div** division element as a container for other elements. 
+We use the **div** (division element) as a container for other elements. 
 
 The outermost div has an **id** attribute set to 'pet_1'. We will use this as a 'component' to create containers for the other pets.
 
-Copy the div component and create containers for the other pets as follows:
+Copy the 'pet component' and create containers for the other three pets as follows :
 
 ```html
 <!doctype html>
@@ -277,7 +288,7 @@ Copy the div component and create containers for the other pets as follows:
 
 ### Footer
 
-- Add a footer to the page
+- Add a footer to the page.
 
 ```html
 <!doctype html>
@@ -360,7 +371,7 @@ Copy the div component and create containers for the other pets as follows:
 </html>
 ```
 
-- Preview the index.html page in the browser
+- Preview the index.html page in the browser.
 
 ![new folder](img/html2-site2.JPG)
 ![new folder](img/html2-site3.JPG)

@@ -1,10 +1,17 @@
+---
+title: Lesson 5 - CSS
+has_children: false
+nav_order: 6
+description: Javascript
+---
+
 # Javascript
 
-## In this lesson, we will add Javascript to a webpage to make it interactive
+## In this lesson, we will add Javascript to a webpage to make it interactive.
 
 ### Add a javascript folder
 
-- In the project folder, add a new folder and name it javascript
+- In the project folder, add a new folder and name it **javascript**.
 
 - In this folder, add a new file called **script.js**
 
@@ -12,9 +19,9 @@
 
 ### Image gallery
 
-We will use javascript to build an image gallery in the index,html page
+We will use javascript to build an image gallery in the index.html page.
 
-- In the index.html page, add code for the image gallery controller just before the section closing tag:
+- In the index.html page, add code for the image gallery controller just before the section closing tag :
 
 ```html
 ....
@@ -31,7 +38,7 @@ We will use javascript to build an image gallery in the index,html page
 </section>
 ```
 
-- In the style.css file, add the style for the gallery controller
+- In the style.css file, add the style for the gallery controller.
 
 ```css
 #gallery-controller {
@@ -45,13 +52,13 @@ We will use javascript to build an image gallery in the index,html page
 }
 ```
 
-- Save the files and , preview the result in the browser
+- Save the files and , preview the result in the browser.
 
 ![new folder](img/js-gallery-controller.JPG)
 
 ### Gallery Navigation List
 
-In the script.js file, write a **function** to get access to the nav element in the gallery controller
+In the script.js file, write a **function** to get access to the navigation element in the gallery controller.
 
 ```javascript
 function getGalleryNavList()
@@ -69,7 +76,7 @@ function getGalleryNavList()
 }
 ```
 
-- Write a function to hide all the 'pet components' on the page
+- Write a function to hide all the 'pet components' on the page.
 
 ```javascript
 
@@ -90,7 +97,7 @@ function hideAllPets()
 }
 ```
 
-- Write a function to show the 'pet controller' when the relevant link is clicked in the gallery controller
+- Write a function to show the 'pet component' when the relevant link is clicked in the gallery controller
 
 ```javascript
 function showPet(i) 
@@ -111,7 +118,7 @@ function showPet(i)
 
 ### Add Javascript to the page
 
-In the index.html page's Head section, add a link to your javascript file
+In the index.html page's Head section, add a link to your javascript file.
 
 ```html
 <head>
@@ -127,7 +134,7 @@ When the page loads, we want to hide all the pets and show the first pet only. A
 <body onload="showPet(1)">
 ```
 
-When the user clicks a number link in the gallery controller, we want to show the pet with that number. Add the code on each onclick event for the link
+When the user clicks a number link in the gallery controller, we want to show the pet with that number. Add the code on each onclick event on the link to do this.
 
 ```html
 <div id="gallery-controller">
