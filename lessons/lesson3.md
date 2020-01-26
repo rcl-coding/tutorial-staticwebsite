@@ -87,7 +87,6 @@ The **img** has ad **id** attribute set to 'logo' and a **src** (source) attribu
         <img id="logo" src="img/logo.png" />
         <h1>Adopt a Pet</h1>
     </header>
-    
     <!-- Add nav -->
     <nav>
         <ul>
@@ -137,7 +136,6 @@ These links will comprise the navigation for our website.
             <li><a href="about.html">About</a></li>
         </ul>
     </nav>
-
     <!-- Add section -->
     <section>
 
@@ -339,7 +337,6 @@ Copy the 'pet component' and create containers for the other three pets as follo
             </div>
         </div>
     </section>
-    
     <!-- Add footer -->
     <footer>
         <p>Pet Adoption Agency (c) 2020 </p>

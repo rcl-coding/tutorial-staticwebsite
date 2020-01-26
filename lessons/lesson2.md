@@ -49,7 +49,6 @@ All the elements of an HTML page is placed inside this **html** element between 
 ```html
 <!doctype html>
 <html lang="en">
-
 <!-- Add head -->
 <head>
     <meta charset="utf-8">
@@ -85,7 +84,6 @@ The Head element also contains the title of the page in the **title** element.
     <meta name="description" content="Adopt a dog from us today">
     <title>Dog Adoption Agency</title>
 </head>
-
 <!-- Add body -->
 <body>
 
