@@ -261,12 +261,15 @@ footer {
 
 ![new folder](../img/css-footer.JPG)
 
-****
+***
+### COMMENTS
+***
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson4.html';
-this.page.identifier = 'f001-04';
+this.page.identifier = 'f01-04';
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');

@@ -104,12 +104,15 @@ description: Add Pages to Website
 
 - Save the files and preview the completed website in the browser.
 
-****
+***
+### COMMENTS
+***
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson6.html';
-this.page.identifier = 'f001-06';
+this.page.identifier = 'f01-06';
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');

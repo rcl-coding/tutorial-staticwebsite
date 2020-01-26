@@ -127,12 +127,15 @@ The 'Hello World' caption will be displayed on your web page.
 
 ![new folder](../img/html1-view-browser2.JPG)
 
-****
+***
+### COMMENTS
+***
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson2.html';
-this.page.identifier = 'f001-02';
+this.page.identifier = 'f01-02';
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');

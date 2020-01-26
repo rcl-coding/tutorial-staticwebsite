@@ -353,12 +353,15 @@ Copy the 'pet component' and create containers for the other three pets as follo
 ![new folder](../img/html2-site2.JPG)
 ![new folder](../img/html2-site3.JPG)
 
-****
+***
+### COMMENTS
+***
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson3.html';
-this.page.identifier = 'f001-03';
+this.page.identifier = 'f01-03';
 };
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
