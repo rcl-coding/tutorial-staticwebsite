@@ -5,8 +5,6 @@ nav_order: 4
 description: Add Content to an HTML Page 
 ---
 
-****
-
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****

@@ -5,8 +5,6 @@ nav_order: 7
 description: Add Pages to Website
 ---
 
-****
-
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****

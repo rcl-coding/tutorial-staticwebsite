@@ -5,8 +5,6 @@ nav_order: 6
 description: Javascript
 ---
 
-****
-
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****

@@ -5,8 +5,6 @@ nav_order: 5
 description: Styling with CSS
 ---
 
-****
-
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****

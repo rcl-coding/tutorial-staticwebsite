@@ -5,8 +5,6 @@ nav_order: 2
 description: Create the Project
 ---
 
-****
-
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****

@@ -5,8 +5,6 @@ nav_order: 3
 description: Add an HTML 
 ---
 
-****
-
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
