@@ -5,6 +5,10 @@ nav_order: 6
 description: Javascript
 ---
 
+****
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+****
+
 # Javascript
 
 ## In this lesson, we will add Javascript to a webpage to make it interactive.
@@ -155,13 +159,17 @@ When the user clicks a number link in the gallery controller, we want to show th
 ### COMMENTS
 ***
 
+***
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+***
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson5.html';
-this.page.identifier = 'f01-05';
+this.page.identifier = 'f01-05'; 
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());

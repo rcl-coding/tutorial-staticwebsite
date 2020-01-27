@@ -4,6 +4,11 @@ has_children: false
 nav_order: 3
 description: Add an HTML 
 ---
+
+****
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+****
+
 # Add an HTML page
 
 ## In this lesson, we will add an HTML file to our project.
@@ -128,16 +133,16 @@ The 'Hello World' caption will be displayed on your web page.
 ![new folder](../img/html1-view-browser2.JPG)
 
 ***
-### COMMENTS
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 ***
 
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson2.html';
-this.page.identifier = 'f01-02';
+this.page.identifier = 'f01-02'; 
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());

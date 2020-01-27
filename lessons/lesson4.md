@@ -5,6 +5,10 @@ nav_order: 5
 description: Styling with CSS
 ---
 
+****
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+****
+
 # Styling with CSS
 
 ## In this lesson, we will use Cascading Style Sheets (CSS) to style our website.
@@ -262,16 +266,16 @@ footer {
 ![new folder](../img/css-footer.JPG)
 
 ***
-### COMMENTS
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 ***
 
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson4.html';
-this.page.identifier = 'f01-04';
+this.page.identifier = 'f01-04'; 
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());

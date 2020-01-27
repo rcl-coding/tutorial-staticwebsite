@@ -5,6 +5,10 @@ nav_order: 2
 description: Create the Project
 ---
 
+****
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+****
+
 # Create the project
 
 ## In this lesson, we will create a new project for our website.
@@ -24,7 +28,7 @@ description: Create the Project
 ![new folder](../img/vsc-opened-folder.JPG)
 
 ***
-### COMMENTS
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 ***
 
 <div id="disqus_thread"></div>

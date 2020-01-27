@@ -5,6 +5,10 @@ nav_order: 7
 description: Add Pages to Website
 ---
 
+****
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+****
+
 # Add Pages to Website
 
 ## In this lesson, we will add additional pages to our website.
@@ -105,16 +109,16 @@ description: Add Pages to Website
 - Save the files and preview the completed website in the browser.
 
 ***
-### COMMENTS
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 ***
 
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson6.html';
-this.page.identifier = 'f01-06';
+this.page.identifier = 'f01-06'; 
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());

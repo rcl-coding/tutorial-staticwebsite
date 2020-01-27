@@ -5,6 +5,10 @@ nav_order: 4
 description: Add Content to an HTML Page 
 ---
 
+****
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+****
+
 # Add Content to an HTML Page
 
 ## In this lesson, we will add content to the index.html page.
@@ -357,13 +361,17 @@ Copy the 'pet component' and create containers for the other three pets as follo
 ### COMMENTS
 ***
 
+***
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+***
+
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
 this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson3.html';
-this.page.identifier = 'f01-03';
+this.page.identifier = 'f01-03'; 
 };
-(function() { // DON'T EDIT BELOW THIS LINE
+(function() { 
 var d = document, s = d.createElement('script');
 s.src = 'https://coding-skills-io.disqus.com/embed.js';
 s.setAttribute('data-timestamp', +new Date());
