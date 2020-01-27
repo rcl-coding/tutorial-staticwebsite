@@ -6,7 +6,9 @@ description: Add Content to an HTML Page
 ---
 
 ****
+
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+
 ****
 
 # Add Content to an HTML Page
@@ -357,9 +359,11 @@ Copy the 'pet component' and create containers for the other three pets as follo
 ![new folder](../img/html2-site2.JPG)
 ![new folder](../img/html2-site3.JPG)
 
-***
-### COMMENTS
-***
+****
+
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+
+****
 
 ***
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)

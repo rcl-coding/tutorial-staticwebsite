@@ -6,7 +6,9 @@ description: Create the Project
 ---
 
 ****
+
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+
 ****
 
 # Create the project
@@ -27,9 +29,11 @@ description: Create the Project
 
 ![new folder](../img/vsc-opened-folder.JPG)
 
-***
+****
+
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
-***
+
+****
 
 <div id="disqus_thread"></div>
 <script>

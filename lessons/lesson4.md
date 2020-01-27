@@ -6,7 +6,9 @@ description: Styling with CSS
 ---
 
 ****
+
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+
 ****
 
 # Styling with CSS
@@ -265,9 +267,11 @@ footer {
 
 ![new folder](../img/css-footer.JPG)
 
-***
+****
+
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
-***
+
+****
 
 <div id="disqus_thread"></div>
 <script>

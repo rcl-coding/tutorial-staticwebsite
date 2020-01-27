@@ -6,7 +6,9 @@ description: Add an HTML
 ---
 
 ****
+
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+
 ****
 
 # Add an HTML page
@@ -132,9 +134,11 @@ The 'Hello World' caption will be displayed on your web page.
 
 ![new folder](../img/html1-view-browser2.JPG)
 
-***
+****
+
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
-***
+
+****
 
 <div id="disqus_thread"></div>
 <script>

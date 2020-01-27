@@ -6,7 +6,9 @@ description: Add Pages to Website
 ---
 
 ****
+
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+
 ****
 
 # Add Pages to Website
@@ -108,9 +110,11 @@ description: Add Pages to Website
 
 - Save the files and preview the completed website in the browser.
 
-***
+****
+
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
-***
+
+****
 
 <div id="disqus_thread"></div>
 <script>

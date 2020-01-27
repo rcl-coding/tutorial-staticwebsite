@@ -6,7 +6,9 @@ description: Javascript
 ---
 
 ****
+
 [![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+
 ****
 
 # Javascript
@@ -159,9 +161,11 @@ When the user clicks a number link in the gallery controller, we want to show th
 ### COMMENTS
 ***
 
-***
+****
+
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
-***
+
+****
 
 <div id="disqus_thread"></div>
 <script>
