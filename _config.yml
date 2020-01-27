@@ -3,8 +3,8 @@ description: Build a static website with HTML, CSS and Javascript
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 aux_links:
-    "Edit on GitHub":
-      - "https://github.com/rcl-coding/tutorial-staticwebsite"
+    "Coding Skills.IO":
+      - "https://rclapp.com"
 footer_content: "Copyright &copy; 2020 Ray Consulting Limited. Distributed by an <a href=\"https://github.com/rcl-coding/tutorial-staticwebsite/blob/master/LICENSE\">MIT license.</a>"
 plugins:
   - jekyll-seo-tag

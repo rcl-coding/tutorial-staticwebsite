@@ -363,10 +363,6 @@ Copy the 'pet component' and create containers for the other three pets as follo
 
 ****
 
-***
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
-***
-
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
