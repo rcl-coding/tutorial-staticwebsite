@@ -108,6 +108,8 @@ description: Add Pages to Website
 
 - Save the files and preview the completed website in the browser.
 
+![img](../img/complete-site.JPG)
+
 ****
 
 [![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
@@ -117,8 +119,8 @@ description: Add Pages to Website
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson6.html';
-this.page.identifier = 'f01-06'; 
+this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson6.html';
+this.page.identifier = 'a01-06'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');

@@ -141,8 +141,8 @@ The 'Hello World' caption will be displayed on your web page.
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson2.html';
-this.page.identifier = 'f01-02'; 
+this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson2.html';
+this.page.identifier = 'a01-02'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');

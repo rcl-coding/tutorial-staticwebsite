@@ -6,6 +6,8 @@ Author : Anil Ripla
 
 ### In this module, we will build a simple static website with HTML , CSS and Javascript
 
+![img](./img/complete-site.JPG)
+
 ### Visual Studio Code
 
 You will be using Visual Studio Code as the **Integrated Development Environment (IDE)** to build your website.

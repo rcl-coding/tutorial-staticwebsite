@@ -36,8 +36,8 @@ description: Create the Project
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {
-this.page.url = 'https://rcl-coding.github.io/tutorial-staticwebsite/lessons/lesson1.html';
-this.page.identifier = 'f01-01'; 
+this.page.url = 'https://staticwebsite.tutorial.rclapp.com/lessons/lesson1.html';
+this.page.identifier = 'a01-01'; 
 };
 (function() { 
 var d = document, s = d.createElement('script');
