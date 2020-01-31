@@ -1,11 +1,11 @@
 ---
-title: Lesson 1 - Create Project
+title: Beginner Website - Create a Project
 has_children: false
 nav_order: 2
-description: Create the Project
+description: Create a project in Visual Studio Code for your website
 ---
 
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
 ****
 
@@ -29,7 +29,7 @@ description: Create the Project
 
 ****
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
 

@@ -1,11 +1,11 @@
 ---
-title: Lesson 3 - HTML Content
+title: Beginner Website - HTML Tags
 has_children: false
 nav_order: 4
-description: Add Content to an HTML Page 
+description: Add HTML tags to your web page
 ---
 
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
 ****
 
@@ -359,7 +359,7 @@ Copy the 'pet component' and create containers for the other three pets as follo
 
 ****
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
 

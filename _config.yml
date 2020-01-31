@@ -1,7 +1,8 @@
-title: Static Website
-description: In the tutorial you will build a static website with HTML, CSS and Javascript
+title: Beginner Website
+description: In the tutorial you will build a simple static website with HTML, CSS and Javascript
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
+ga_tracking: UA-146945738-8
 aux_links:
     "Coding Skills.IO":
       - "https://rclapp.com"

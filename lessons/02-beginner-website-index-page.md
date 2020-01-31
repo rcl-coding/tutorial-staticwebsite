@@ -1,11 +1,11 @@
 ---
-title: Lesson 2 - HTML
+title: Beginner Website - Index Page
 has_children: false
 nav_order: 3
-description: Add an HTML 
+description: Create an index page for your website
 ---
 
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
 ****
 
@@ -134,7 +134,7 @@ The 'Hello World' caption will be displayed on your web page.
 
 ****
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
 

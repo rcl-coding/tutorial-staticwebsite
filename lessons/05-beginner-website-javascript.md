@@ -1,11 +1,11 @@
 ---
-title: Lesson 5 - Javascript
+title: Beginner Website - Javascript
 has_children: false
 nav_order: 6
-description: Javascript
+description: Add Javascript JS to your web pages
 ---
 
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
 ****
 
@@ -161,7 +161,7 @@ When the user clicks a number link in the gallery controller, we want to show th
 
 ****
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
 

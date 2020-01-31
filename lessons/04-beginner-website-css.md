@@ -1,11 +1,11 @@
 ---
-title: Lesson 4 - CSS
+title: Beginner Website - CSS
 has_children: false
 nav_order: 5
-description: Styling with CSS
+description: Style your website with Cascading Style Sheets CSS
 ---
 
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
 ****
 
@@ -267,7 +267,7 @@ footer {
 
 ****
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
 

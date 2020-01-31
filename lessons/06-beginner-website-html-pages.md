@@ -1,11 +1,11 @@
 ---
-title: Lesson 6 - Add Pages
+title: Beginner Website - Add Pages
 has_children: false
 nav_order: 7
-description: Add Pages to Website
+description: Add HTML pages to your website
 ---
 
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
+[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
 
 ****
 
@@ -112,7 +112,7 @@ description: Add Pages to Website
 
 ****
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
 
 ****
 
