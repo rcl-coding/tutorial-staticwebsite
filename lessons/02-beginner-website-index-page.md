@@ -1,5 +1,5 @@
 ---
-title: Beginner Website - Index Page
+title: Index Page
 has_children: false
 nav_order: 3
 description: Create an index page for your website

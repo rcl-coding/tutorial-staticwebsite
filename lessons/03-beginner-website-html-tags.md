@@ -1,5 +1,5 @@
 ---
-title: Beginner Website - HTML Tags
+title: HTML Tags
 has_children: false
 nav_order: 4
 description: Add HTML tags to your web page

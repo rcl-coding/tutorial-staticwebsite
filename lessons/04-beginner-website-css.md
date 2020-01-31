@@ -1,5 +1,5 @@
 ---
-title: Beginner Website - CSS
+title: CSS
 has_children: false
 nav_order: 5
 description: Style your website with Cascading Style Sheets CSS

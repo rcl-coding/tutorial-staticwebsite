@@ -1,5 +1,5 @@
 ---
-title: Beginner Website - Javascript
+title: Javascript
 has_children: false
 nav_order: 6
 description: Add Javascript JS to your web pages

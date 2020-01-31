@@ -1,5 +1,5 @@
 ---
-title: Beginner Website - Create a Project
+title: Create a Project
 has_children: false
 nav_order: 2
 description: Create a project in Visual Studio Code for your website

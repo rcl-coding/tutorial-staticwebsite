@@ -1,5 +1,5 @@
 ---
-title: Beginner Website - Add Pages
+title: Add Pages
 has_children: false
 nav_order: 7
 description: Add HTML pages to your website
