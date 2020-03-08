@@ -5,7 +5,7 @@ nav_order: 6
 description: Add Javascript JS to your web pages
 ---
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
 
 ****
 

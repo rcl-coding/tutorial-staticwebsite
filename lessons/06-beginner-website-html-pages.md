@@ -5,7 +5,7 @@ nav_order: 7
 description: Add HTML pages to your website
 ---
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
 
 ****
 

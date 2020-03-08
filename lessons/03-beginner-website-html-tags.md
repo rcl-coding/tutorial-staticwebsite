@@ -5,7 +5,7 @@ nav_order: 4
 description: Add HTML tags to your web page
 ---
 
-[![ad](../img/online-mentoring.jpg)](https://rclapp.com/mentors.html)
+[![ad](../img/github-classroom.jpg)](https://classroom.github.com/a/8P_h4PsT)
 
 ****
 
