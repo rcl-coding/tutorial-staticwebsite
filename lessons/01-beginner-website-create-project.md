@@ -27,11 +27,9 @@ description: Create a project in Visual Studio Code for your website
 
 ![new folder](../img/vsc-opened-folder.JPG)
 
-****
-
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
-
-****
+***
+### COMMENTS
+***
 
 <div id="disqus_thread"></div>
 <script>

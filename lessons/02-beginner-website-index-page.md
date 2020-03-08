@@ -132,11 +132,9 @@ The 'Hello World' caption will be displayed on your web page.
 
 ![new folder](../img/html1-view-browser2.JPG)
 
-****
-
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
-
-****
+***
+### COMMENTS
+***
 
 <div id="disqus_thread"></div>
 <script>

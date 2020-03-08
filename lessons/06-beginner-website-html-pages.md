@@ -110,11 +110,9 @@ description: Add HTML pages to your website
 
 ![img](../img/complete-site.JPG)
 
-****
-
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
-
-****
+***
+### COMMENTS
+***
 
 <div id="disqus_thread"></div>
 <script>

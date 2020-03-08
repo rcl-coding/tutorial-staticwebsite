@@ -159,12 +159,6 @@ When the user clicks a number link in the gallery controller, we want to show th
 ### COMMENTS
 ***
 
-****
-
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
-
-****
-
 <div id="disqus_thread"></div>
 <script>
 var disqus_config = function () {

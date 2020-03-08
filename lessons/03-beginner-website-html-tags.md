@@ -357,11 +357,9 @@ Copy the 'pet component' and create containers for the other three pets as follo
 ![new folder](../img/html2-site2.JPG)
 ![new folder](../img/html2-site3.JPG)
 
-****
-
-[![ad](../img/bootcamp.jpg)](https://rclapp.com/bootcamp.html)
-
-****
+***
+### COMMENTS
+***
 
 <div id="disqus_thread"></div>
 <script>
